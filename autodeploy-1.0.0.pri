@@ -7,7 +7,7 @@
 #
 # DESTDIR = $${PWD}/build
 #
-# include(C:/Qt/3rdParty/autodeploy-1.0.0/autodeploy-1.0.0.pri)
+# include(autodeploy-1.0.0.pri)
 # include(..others..)
 # include(..others..)
 #
